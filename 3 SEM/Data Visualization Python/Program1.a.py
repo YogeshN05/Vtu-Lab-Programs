@@ -15,7 +15,6 @@ average = (test1 + test2 + test3 - min_score) / 2
 print("The Average of Best Two Tests is: ", average) 
  
 
-
 '''Output: 
 Enter Test1 marks: 45 
 Enter Test2 marks: 20 
